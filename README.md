@@ -83,7 +83,17 @@ Evaluate on `Scannet1500`:
 cd sgat
 uv run python scripts/run_scannet1500.py --overwrite
 ```
+Reference `Scannet1500` result with the released weights:
 
+- `rel_pose_error_mAA`: `0.2788`
+- `rel_pose_error@5°`: `0.2291`
+- `rel_pose_error@10°`: `0.4337`
+- `rel_pose_error@20°`: `0.6145`
+- `mnum_matches`: `491.821`
+- `mransac_inl`: `183.0`
+- `mransac_inl%`: `0.382`
+
+  
 Evaluate on `Scannetv2`:
 
 ```bash
