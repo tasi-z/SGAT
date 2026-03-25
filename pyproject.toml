@@ -1,0 +1,28 @@
+[project]
+name = "sgat"
+version = "0.1.0"
+description = "Evaluation-oriented SGAT release with demo, Scannet1500, and Scannetv2 support."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "torch",
+    "torchvision",
+    "numpy",
+    "scipy",
+    "opencv-python",
+    "matplotlib",
+    "tqdm",
+    "omegaconf",
+    "h5py",
+    "kornia",
+    "einops",
+    "yacs",
+    "loguru",
+    "pytorch-lightning",
+    "seaborn",
+    "numexpr",
+    "bottleneck",
+]
+
+[tool.uv]
+package = false

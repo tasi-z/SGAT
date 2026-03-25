@@ -1,0 +1,5 @@
+outputs/
+weights/public/*.pth
+weights/dino_matchable/*.ckpt
+weights/gim/*.ckpt
+weights/dinov2/
