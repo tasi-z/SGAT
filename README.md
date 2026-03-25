@@ -39,7 +39,7 @@ This repository does not commit pretrained binaries. Place the required files un
 - `weights/public/sgat_matcher_public.pth` (`sgat.*` only)
 - `weights/public/superpoint_extractor_public.pth`
 - `weights/cop/last.ckpt` (`COP` backbone weights)
-- `weights/dinov2/`
+
 
 ## Installation
 
