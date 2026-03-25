@@ -73,7 +73,7 @@ This writes:
 
 Demo visualization:
 
-![SGAT demo matches](outputs/demo_scannet1500/demo_matches.png)
+![SGAT demo matches](assets/demo_matches.png)
 
 ## Evaluation
 
